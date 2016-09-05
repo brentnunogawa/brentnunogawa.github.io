@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/vacay-square.png
 title: community-service
-permalink: projects/vacay
+permalink: projects/community-service
 date: 2015
 labels:
   - Javascript
