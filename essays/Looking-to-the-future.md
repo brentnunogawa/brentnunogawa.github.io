@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Looking to the future
+title: Looking-to-the-future
 date: 2016-09-4
 labels:
   - Software Engineering
