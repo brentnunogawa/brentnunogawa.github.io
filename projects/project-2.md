@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
+title: community-service
 permalink: projects/vacay
 date: 2015
 labels:
@@ -10,7 +10,7 @@ labels:
   - Meteor
   - MongoDB
   - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: Through out my life I’ve been able to gain various experiecing by volunteering in many community service projects.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
