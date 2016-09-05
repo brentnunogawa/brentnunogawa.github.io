@@ -4,8 +4,8 @@ type: essay
 title: Looking-to-the-future
 date: 2016-09-04
 labels:
-  - Software Engineering
-  - reflection
+  - Software-Engineering
+  - Reflection
 ---
 # Anyone Can Learn It.
 Electronic devices are become an almost integral part of society.  Many businesses need these various electronic devices in order to be relevant in the world and sometimes they need them to even function.  In fact, along with the growing use and need of technology in the business world, there’s the growing use and need of technology in people’s personal lives.  However in my opinion, technology is a tool and a tool is only as good as how you use it.  It can be used to make things more efficient, it can be used to make people lazy, or it can be used to add a new aspect to the world that was.  But at the core of all this technology is the actual software which controls what any electronic device will do.  Thus learning more about anything software related would be helpful in being relevant in the job market and help with molding existing technology to fit my personal needs.  And that was my train of thought when signing up for the ICS 314 course I’m currently in.
