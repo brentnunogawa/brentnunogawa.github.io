@@ -4,7 +4,7 @@ type: project
 image: images/micromouse.jpg
 title: Asian-Liondance-Team
 permalink: projects/micromouse
-date: 2015
+date: 2016
 labels:
   - Teaching
   - Martial Arts
