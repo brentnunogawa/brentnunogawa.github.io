@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title:Configuration Management and Github, use it, love it
+title:Configuration Management and Github
 date: 2016-09-15
 labels:
   - ConfigurationManagment
