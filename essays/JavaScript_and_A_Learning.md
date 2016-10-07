@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: E09
+title: JavaScript_and_A_Learning
 date: 2016-09-01
 labels:
   - JavaScript
