@@ -13,8 +13,6 @@ labels:
 summary: Final Group Project for ICS 314 to be further developed for future use by the University of Hawaii Manoa System.
 ---
 
-<a href="https://manoa-tckts.github.io/" target="_blank"><i class="large github icon"></i>Manoa TCKTS</a>
-
 Manoa-Tckts is an application created to allow users within the University of Hawaii System a safe outlet to buy tickets from promoters and other students.
 This application requires the user log in through a University of Hawaii account in order to use its functionality.  The forced login
 through the University of Hawaii system is to act as a deterrent for scams or bad behavior during the ticket exchange.
@@ -29,6 +27,8 @@ mine being anything having to do with User and profile functionality, each of us
 above and beyond what we were just assigned to do.  It was an interesting and good experience that I'm sure forced all of us out of any comfort zone as problems
 we faced during this project will most likely be faced in the future.
 
+<a href="https://manoa-tckts.github.io/" target="_blank"><i class="large github icon"></i>Manoa TCKTS</a>
+
 <img class="ui floated rounded image" style="margin-bottom: 20px" src="../images/landingpage.png">
 
 The Development Team
@@ -41,5 +41,3 @@ The Development Team
 <br>
 * <a href="https://brentnunogawa.github.io/" target="_blank"> Brent Nunogawa</a>
 <br>
-<p></p>
-<p></p>
