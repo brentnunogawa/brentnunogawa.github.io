@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay 
-title:Configuration-Management-and-Github
+title: Configuration-Management-and-Github
 date: 2016-09-15
 labels:
   - ConfigurationManagment
