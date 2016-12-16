@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/landingpage.png
 title: Manoa-Tckts
-permalink: projects/landingpage
+permalink: projects/manoatckts
 date: 2016
 labels:
   - University of Hawaii
