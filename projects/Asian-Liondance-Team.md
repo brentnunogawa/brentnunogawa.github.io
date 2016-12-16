@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/logo2.jpg
 title: Asian-Liondance-Team
 permalink: projects/micromouse
 date: 2016
