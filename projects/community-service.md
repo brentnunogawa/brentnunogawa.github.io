@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/staff.png
 title: community-service
 permalink: projects/community-service
 date: 2015
