@@ -9,8 +9,8 @@ labels:
   - University of Hawaii
   - Tickets
   - Application
-  -Final Project
-summary: Final Group Project for ICS 314.
+  - Final Project
+summary: Final Group Project for ICS 314 to be further developed for future use by the University of Hawaii Manoa System.
 ---
 
 Manoa-Tckts is an application created to allow users within the University of Hawaii System a safe outlet to buy tickets from promoters and other students.
