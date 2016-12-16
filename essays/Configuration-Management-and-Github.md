@@ -1,13 +1,11 @@
 ---
 layout: essay
-type: essay
-published: true
+type: essay 
 title:Configuration-Management-and-Github
 date: 2016-09-15
 labels:
   - ConfigurationManagment
 ---
-
 ## What is Configuration Managment
 So what is Configuration Management when it commes to Softwar Engineering? To put it simply, Configuration management is group and project managment.  To many people, the creation of a software program consists of learning a programming language and telling the computer what it should do.  Yes, This may be true for small projects which a single individual is able to complete in a timely fashion.  However, it's the year 2016 and many professional commercial projects aren't small and require a team to create, at least if the project is meant to be finished in a timely fashion.  And while working with others on a software program has it's benefits, human error and the actual details in software development cause their share of problems.
 
