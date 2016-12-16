@@ -10,7 +10,7 @@ labels:
   - Tickets
   - Application
   -Final Project
-summary: Final Group Project for ICS 314 meant as the foundation to be further developed for use by the University of Hawaii Manoa System.
+summary: Final Group Project for ICS 314 to be further developed for future use by the University of Hawaii Manoa System.
 ---
 
 <a href="https://manoa-tckts.github.io/" target="_blank"><i class="large github icon"></i>Manoa TCKTS</a>
