@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/micromouse.jpg
 title: Manoa-Tckts
-permalink: projects/micromouse
+permalink: projects/landingpage
 date: 2016
 labels:
   - University of Hawaii
@@ -28,3 +28,18 @@ and other commitments as well and we all were very accommodating torwards that f
 mine being anything having to do with User and profile functionality, each of us had to at times take a leadership role, help other members, and go
 above and beyond what we were just assigned to do.  It was an interesting and good experience that I'm sure forced all of us out of any comfort zone as problems
 we faced during this project will most likely be faced in the future.
+
+<img class="ui floated rounded image" style="margin-bottom: 20px" src="../images/landingpage.png">
+
+The Development Team
+
+* <a href="https://dumlaoj.github.io/" target="_blank"> Jordan Dumlao</a>
+<br>
+* <a href="https://kylebali.github.io/" target="_blank"> Kyle Balisacan</a>
+<br>
+* <a href="https://brandon-chun.github.io/" target="_blank"> Brandon Chun</a>
+<br>
+* <a href="https://brentnunogawa.github.io/" target="_blank"> Brent Nunogawa</a>
+<br>
+<p></p>
+<p></p>
