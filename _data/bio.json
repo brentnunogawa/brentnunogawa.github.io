@@ -80,7 +80,11 @@
         "Java",
         "Javascript",
         "Assembly",
-        "Common Lisp"
+        "Common Lisp",
+        "Visual Basic",
+        "Semantic UI",
+        "Meteor",
+        "Underscore"
       ]
     },
     {
@@ -98,26 +102,23 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2017)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
     }
-  ],
-  "work": [
-    {},
-  
   ],
   "volunteer": [
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "organization": "Asian Lion Dance Team",
+      "website": "http://aldt.net/",
+      "position": "Assistant Instructor",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "Comic Con Honolulu",
+      "website": "http://aldt.net/",
+      "position": "Tech Department  ",
       "summary": "",
       "highlights": [
       ]
